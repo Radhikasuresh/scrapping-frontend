@@ -1,0 +1,1 @@
+export const url="https://webscrapper-backend-new.onrender.com/scrapdata/get";
